@@ -1,0 +1,29 @@
+[
+  {
+    "id": "102",
+    "name": "heamkumar",
+    "age": "21",
+    "feedback": "worst",
+    "grade": "12",
+    "score": "429",
+    "passedYear": "2023"
+  },
+  {
+    "id": "103",
+    "name": "brindha",
+    "age": "19",
+    "feedback": "good",
+    "grade": "12",
+    "score": "500",
+    "passedYear": "2023"
+  },
+  {
+    "id": "106",
+    "name": "Roshini",
+    "age": "19",
+    "feedback": "NICE",
+    "grade": "12",
+    "score": "493",
+    "passedYear": "2023"
+  }
+]
