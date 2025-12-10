@@ -9,9 +9,18 @@ and easier to maintain.
 
 Features:
 1.Add new students with details
+
 2.Add new courses
+
 3.Display available courses
 4.Update or remove course details
+
 5.Enroll a student into a course
-6.Prevent duplicate enrollments
+
+6.Prevent dupl<img width="1647" height="654" alt="Screenshot 2025-12-08 154348" src="https://github.com/user-attachments/assets/fbc02abd-bfb2-492e-b4d7-56047a00fe4c" />
+
+
 7.View enrolled students for each course
+<img width="1647" height="654" alt="Screenshot 2025-12-08 154348" src="https://github.com/user-attachments/assets/fbc02abd-bfb2-492e-b4d7-56047a00fe4c" />
+
+<img width="1904" height="896" alt="Screenshot 2025-12-08 154315" src="https://github.com/user-attachments/assets/0cf48cc0-53ea-45b5-8499-1f9913a67fa7" />
